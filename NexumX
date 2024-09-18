@@ -515,6 +515,3 @@ local Slider = Tab:CreateSlider({
         camera.FieldOfView = Value
     end,
 })
-
-local Tab = Window:CreateTab("PVP", 4483362458) -- Title, Image
-
